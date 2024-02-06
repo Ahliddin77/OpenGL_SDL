@@ -1,0 +1,2 @@
+Game Tic-Tac-Toe. A board consisting of nine squares as in the game noughts and crosses. 
+At the beginning the middle square is 'active' (has diffeent color). Implemented the movement between these squares.
