@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1705044187 source:c:\users\ahlid\onedrive\ishchi stol\project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_opengl.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1705642720 source:c:\users\ahlid\onedrive\ishchi stol\rotating cube\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cmath>
+
