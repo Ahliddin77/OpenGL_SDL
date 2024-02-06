@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1705044187 source:c:\users\ahlid\onedrive\ishchi stol\project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_opengl.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1705642084 source:c:\users\ahlid\onedrive\ishchi stol\bouncing ball\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1705643990 source:c:\users\ahlid\onedrive\ishchi stol\tic tac toe\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
