@@ -1,0 +1,1 @@
+Implemented object movement in a 2D plane where the object, represented as a square, can be rotated using the 'left' and 'right' arrow keys. The 'up' arrow key moves the object forward (ahead) in the direction it is facing. This movement is achieved using polar coordinates or trigonometric functions.
