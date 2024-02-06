@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705044187 source:c:\users\ahlid\onedrive\ishchi stol\project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_opengl.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1705643322 source:c:\users\ahlid\onedrive\ishchi stol\3d house\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
